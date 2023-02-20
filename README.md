@@ -49,4 +49,14 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
 
 </details>
 
+## 📊 Github Statistics
+<div align="center">
+  
+[![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahitej28&theme=radical)](https://github.com/Mahitej28/github-readme-stats)
+
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahitej28&theme=radical&line_height=15)](https://github.com/Mahitej28/github-readme-stats)
+
+  [![GitHub Streak Dark](https://streak-stats.demolab.com?user=Mahitej28&theme=radical)](https://git.io/streak-stats)
+</div>
+
 
