@@ -78,3 +78,8 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
     
 </p> 
 
+## Support:
+</h3>
+<p><a href="https://www.buymeacoffee.com/mahimachuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MahimaChuri" /></a></p><br><br>
+<br>
+
