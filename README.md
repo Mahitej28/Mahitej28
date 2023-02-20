@@ -67,5 +67,14 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
 
 </div>
 
+## 🤝 Connect with me
 
+<p align = "center">
+    <a href="https://www.linkedin.com/in/mahimachuri/" target="_blank"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://www.instagram.com/infoelegant10" target="_blank"><img alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://www.facebook.com/profile.php?id=100089851669149" target="_blank"><img alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a> &nbsp&nbsp&nbsp
+    <a href="mailto:mahimachuri.28@gmail.com" target="_blank"><img alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
+    <a href="https://api.whatsapp.com/send/?phone=%2B917715919517&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a>
+    
+</p> 
 
