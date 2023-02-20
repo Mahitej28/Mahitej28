@@ -27,3 +27,26 @@ Highly responsible and organized with excellent writing, communication, and crit
 | Tools| Git, Figma, Postman, Canva, Unity |
 
 ## 👩‍💻 Projects
+<!-- Web Development -->
+<details>
+  <summary><b>Web Development</b></summary>
+  <br/>
+  
+Task Name | Tech Stack | Source Code | 
+------- | --------- | :--------: | 
+Basic Banking System | PHP, HTML, CSS | [Repo](https://github.com/Mahitej28/Eco_Bank)
+Unit Converter | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/CodeClause_Unit-Converter_Mahima)
+Customised Stopwatch and Timer | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/CodeClause_Stopwatch-Timer_Mahima)
+</details>
+<!-- UI/UX Development -->
+<details>
+<summary><b>UI/UX Development</b></summary>
+  <br/>
+
+Task Name | Tool | Source Code | 
+------- | --------- | :--------: | 
+Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
+
+</details>
+
+
