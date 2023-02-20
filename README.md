@@ -1,4 +1,7 @@
 <h1 align = "center"> Hi, I'm Mahima Churi 👋</h1>
+<h3 align = "center"><i>A Passionate <b>Software Developer</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from India 
+</em></i></p>
+</h3>
 
 ## 🚀 About Me
 I'm a full-stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end, back-end, and UI/UX design. I'm also a keen learner of the Mern Stack!
