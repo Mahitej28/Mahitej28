@@ -1,4 +1,5 @@
-# Hi, I'm Mahima! 👋
+<h1 align = "center"> Hi, I'm Mahima Churi 👋</h1>
+
 ## 🚀 About Me
 I'm a full-stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end, back-end, and UI/UX design. I'm also a keen learner of the Mern Stack!
 
