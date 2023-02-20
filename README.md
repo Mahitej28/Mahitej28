@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi, I'm Mahima! 👋
+## 🚀 About Me
+I'm a full-stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end, back-end, and UI/UX design. I'm also a keen learner of the Mern Stack!
 
-<!--
-**Mahitej28/Mahitej28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've always been a dedicated student currently finalizing B.E. in computer engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
 
-Here are some ideas to get you started:
+Highly responsible and organized with excellent writing, communication, and critical thinking abilities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>Web Development Intern at The Sparks Foundation. [project]</li>
+<li>Web Development Intern at Code Clause. [project]</li>
+<li>Author of Research Paper titled 'Blockchain Based E-Voting'</li>
+<li>Creative Lead at Shastra-TCET</li>
+</ul>
+
+## 🔗 Important Links
+<ul>
+<li>Projects: </li>
+<li>Linkedin: </li>
+<li>Resume: </li>
+</ul>
+
+## 🛠 Skills
+| Domain             |Tech      Stack                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Web | HTML, CSS, React.JS |
+| Databases | MYSQL, MongoDB |
+| Blockchain | Ethereum|
+| Languages | Python, C, C++, Java, JavaScript|
+| Tools| Git, Figma, Postman, Canva, Unity |
+
+## 👩‍💻 Projects
