@@ -14,11 +14,9 @@ Highly responsible and organized with excellent writing, communication, and crit
 </ul>
 
 ## 🔗 Important Links
-<ul>
-<li>Projects: </li>
-<li>Linkedin: </li>
-<li>Resume: </li>
-</ul>
+- Projects: [github.com/Mahitej28](https://github.com/Mahitej28)
+- Linkedin: [linkedin.com/mahimachuri](https://www.linkedin.com/in/mahimachuri/)
+- Resume: [resume/mahimachuri](https://drive.google.com/file/d/17VbiD4mzrvAiLzoyq5ERdslkLGEKbufO/view?usp=sharing)
 
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
