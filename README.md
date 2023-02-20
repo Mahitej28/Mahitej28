@@ -59,4 +59,10 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
   [![GitHub Streak Dark](https://streak-stats.demolab.com?user=Mahitej28&theme=radical)](https://git.io/streak-stats)
 </div>
 
+## 🏆 Github Trophy
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mahitej28&column=6&theme=radical)](https://github-profile-trophy.vercel.app/?username=Mahitej28&column=6)
+
+</div>
