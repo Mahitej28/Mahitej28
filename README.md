@@ -6,12 +6,10 @@ I've always been a dedicated student currently finalizing B.E. in computer engin
 
 Highly responsible and organized with excellent writing, communication, and critical thinking abilities. 
 
-<ul>
-<li>Web Development Intern at The Sparks Foundation. [project]</li>
-<li>Web Development Intern at Code Clause. [project]</li>
-<li>Author of Research Paper titled 'Blockchain Based E-Voting'</li>
-<li>Creative Lead at Shastra-TCET</li>
-</ul>
+- **[Web Development and Design Intern](https://drive.google.com/file/d/18w4I2R5CFjAmW4EO94xtmVbYOVQ7GgRD/view?usp=sharing)** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/Mahitej28/Eco_Bank)
+- **[Web Development Intern](https://drive.google.com/file/d/18w4I2R5CFjAmW4EO94xtmVbYOVQ7GgRD/view?usp=sharing)** at **[Code Clause](https://internship.codeclause.com/)**. See the [project](https://github.com/Mahitej28/CodeClause_Unit-Converter_Mahima)
+- Author of Research paper titled **Blockchain Based E-Voting**
+- Creative Lead at [Shastra-TCET](https://www.linkedin.com/company/tcet-shastra-coding-club/mycompany/)
 
 ## 🔗 Important Links
 - Projects: [github.com/Mahitej28](https://github.com/Mahitej28)
