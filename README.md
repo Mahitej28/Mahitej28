@@ -40,6 +40,7 @@ Task Name | Tech Stack | Source Code |
 Basic Banking System | PHP, HTML, CSS | [Repo](https://github.com/Mahitej28/Eco_Bank)
 Unit Converter | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/CodeClause_Unit-Converter_Mahima)
 Basic Calculator | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/Mini-Calculator)
+Scientific Calculator | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/Mini-Calculator)
 Customised Stopwatch and Timer | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/CodeClause_Stopwatch-Timer_Mahima)
 </details>
 <!-- UI/UX Development -->
