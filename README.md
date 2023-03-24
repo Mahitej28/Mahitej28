@@ -12,6 +12,7 @@ Highly responsible and organized with excellent writing, communication, and crit
 
 - **[Web Development and Design Intern](https://drive.google.com/file/d/1JK55wUEDg7X08A1VkvdWUMS1z2YJ0PNp/view?usp=sharing)** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/Mahitej28/Eco_Bank)
 - **[Web Development Intern](https://drive.google.com/file/d/18w4I2R5CFjAmW4EO94xtmVbYOVQ7GgRD/view?usp=sharing)** at **[Code Clause](https://internship.codeclause.com/)**. See the [project](https://github.com/Mahitej28/CodeClause_Unit-Converter_Mahima)
+- <b>Web Development Intern</b> at **[YoursthatSenior](https://yoursthatsenior.com/)**
 - Author of Research paper titled **Blockchain Based E-Voting**
 - Creative Lead at [Shastra-TCET](https://www.linkedin.com/company/tcet-shastra-coding-club/mycompany/)
 
@@ -42,7 +43,7 @@ Unit Converter | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/Cod
 Basic Calculator | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/Mini-Calculator)
 Scientific Calculator | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/Scientific-Calculator)
 Customised Stopwatch and Timer | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/CodeClause_Stopwatch-Timer_Mahima)
-Tic Tac Toe Game | JavaScript, HTML, CSS | [Repo]()
+Tic Tac Toe Game | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/Tic-Tac-Toe-Game)
 </details>
 <!-- UI/UX Development -->
 <details>
