@@ -24,7 +24,7 @@ Highly responsible and organized with excellent writing, communication, and crit
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Web | HTML, CSS, React.JS |
+| Web | HTML, CSS, React.JS, NodeJs, ExpressJs |
 | Databases | MYSQL, MongoDB |
 | Blockchain | Ethereum|
 | Languages | Python, C, C++, Java, JavaScript|
@@ -38,6 +38,7 @@ Highly responsible and organized with excellent writing, communication, and crit
   
 Task Name | Tech Stack | Source Code | 
 ------- | --------- | :--------: | 
+ToDo Application | MongoDB, ReactJS, NodeJs, ExpressJS | [Repo](https://github.com/Mahitej28/Eco_Bank)
 Basic Banking System | PHP, HTML, CSS | [Repo](https://github.com/Mahitej28/Eco_Bank)
 Unit Converter | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/CodeClause_Unit-Converter_Mahima)
 Basic Calculator | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/Mini-Calculator)
