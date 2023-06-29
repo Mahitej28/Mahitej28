@@ -32,7 +32,7 @@ Highly responsible and organized with excellent writing, communication, and crit
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Web | HTML, CSS, React.JS, NodeJs, ExpressJs |
+| Web Development | HTML, CSS, React.JS, NodeJs, ExpressJs |
 | Databases | MYSQL, MongoDB |
 | Blockchain | Ethereum|
 | Languages | Python, C, C++, Java, JavaScript|
@@ -46,6 +46,8 @@ Highly responsible and organized with excellent writing, communication, and crit
   
 Task Name | Tech Stack | Source Code | 
 ------- | --------- | :--------: | 
+Image Uploader to S3 | ReactJS, NodeJs, ExpressJS, AWS | [Repo](https://github.com/Mahitej28/Image_uploader_to_s3)
+Doctor Appointment Scheduling System | MongoDB, ReactJS, NodeJs, ExpressJS | [Repo](https://github.com/Mahitej28/Doctor-Appointment-Scheduling-System)
 ToDo Application | MongoDB, ReactJS, NodeJs, ExpressJS | [Repo](https://github.com/Mahitej28/todoapp-frontend)
 Basic Banking System | PHP, HTML, CSS | [Repo](https://github.com/Mahitej28/Eco_Bank)
 Unit Converter | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/CodeClause_Unit-Converter_Mahima)
@@ -65,7 +67,30 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
 
 </details>
 
-## 📊 Github Statistics
+<details>
+<summary><b>Python</b></summary>
+  <br/>
+
+Task Name | Tech Stack | Source Code | 
+------- | --------- | :--------: | 
+LinkedIn Profile Scraper | Python | [Repo](https://github.com/Mahitej28/LinkedIn-Profile-Scraper)
+Basic Web Scraper | Python | [Repo](https://github.com/Mahitej28/Basic-WebScraper)
+Random Quote Generator | Python | [Repo](https://github.com/Mahitej28/Random-Quote-Generator)
+
+</details>
+
+<details>
+<summary><b>Python Bots</b></summary>
+  <br/>
+
+Task Name | Tech Stack | Source Code | 
+------- | --------- | :--------: | 
+LinkedIn Bot | Python, Selenium | [Repo](https://github.com/Mahitej28/LinkedIn_Bot)
+
+</details>
+
+<details>
+<summary> <h3>📊 Github Statistics</h3> </summary>
 <div align="center">
   
 [![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahitej28&theme=radical)](https://github.com/Mahitej28/github-readme-stats)
@@ -73,6 +98,7 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
 
   [![GitHub Streak Dark](https://streak-stats.demolab.com?user=Mahitej28&theme=radical)](https://git.io/streak-stats)
 </div>
+</details>
 
 ## 🤝 Connect with me
 
@@ -91,5 +117,5 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
 <p><a href="https://www.buymeacoffee.com/mahimachuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MahimaChuri" /></a></p><br><br>
 <br>
 
-Last Updated: Thursday, June 29th, 2023, 15:02 PM (GMT)
+Last Updated: Thursday, June 29th, 2023, 15:44 PM (GMT)
 
