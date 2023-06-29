@@ -114,7 +114,7 @@ LinkedIn Bot | Python, Selenium | [Repo](https://github.com/Mahitej28/LinkedIn_B
 
 ## Support:
 </h3>
-<p><a href="https://www.buymeacoffee.com/mahimachuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MahimaChuri" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mahimachuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="190" alt="MahimaChuri" /></a></p><br><br>
 <br>
 
 Last Updated: Thursday, June 29th, 2023, 15:44 PM (GMT)
