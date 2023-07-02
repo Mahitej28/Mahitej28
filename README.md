@@ -23,7 +23,7 @@ Highly responsible and organized with excellent writing, communication, and crit
 - **[Web Development and Design Intern](https://drive.google.com/file/d/1JK55wUEDg7X08A1VkvdWUMS1z2YJ0PNp/view?usp=sharing)** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/Mahitej28/Eco_Bank)
 
 ## ©️ Important Links
-- Portfolio: [portfolio/mahimachuri](https://mahimachuri-qs2engxhx-mahitej28.vercel.app/)
+- Portfolio: [portfolio/mahimachuri](https://mahimachuri.netlify.app/)
 - Projects: [github.com/Mahitej28](https://github.com/Mahitej28)
 - Linkedin: [linkedin.com/mahimachuri](https://www.linkedin.com/in/mahimachuri/)
 - Resume: [resume/mahimachuri](https://drive.google.com/file/d/17VtNHvJvthIrgilUy_Sf_O3NOHfHnjWQ/view?usp=sharing)
