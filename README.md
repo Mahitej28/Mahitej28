@@ -11,7 +11,7 @@ I've always been a dedicated student currently finalizing B.E. in computer engin
 Highly responsible and organized with excellent writing, communication, and critical thinking abilities. 
 
 - [Open Source Contributor](https://www.linkedin.com/feed/update/urn:li:activity:7063883861092384768/) at **[GSSoC'23](https://gssoc.girlscript.tech/)**
-- UI/UX Team Member at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
+- Cheif Operational Officer (COO) at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
 - TE Inhouse Lead at **[CSI TCET](https://tcetcsi.github.io/tcetcsi/index.html)**
 - Creative Lead at **[Shastra-TCET](https://www.linkedin.com/company/tcet-shastra-coding-club/mycompany/)**
 
