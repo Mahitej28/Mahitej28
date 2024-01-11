@@ -11,16 +11,14 @@ I've always been a dedicated student currently finalizing B.E. in computer engin
 Highly responsible and organized with excellent writing, communication, and critical thinking abilities. 
 
 - [Open Source Contributor](https://www.linkedin.com/feed/update/urn:li:activity:7063883861092384768/) at **[GSSoC'23](https://gssoc.girlscript.tech/)**
-- Chief Operational Officer (COO) at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
-- TE Inhouse Lead at **[CSI TCET](https://tcetcsi.github.io/tcetcsi/index.html)**
-- Creative Lead at **[Shastra-TCET](https://www.linkedin.com/company/tcet-shastra-coding-club/mycompany/)**
+- Author of Research paper titled **[Blockchain Based E-Voting](https://link.springer.com/chapter/10.1007/978-981-99-0071-8_11)**
 
 
 ## 👩‍💻 Experience
 - **[Web Development Intern](https://drive.google.com/file/d/1DLYp-Y-f6SgbHqUe_7O1RXRJA5S0-PST/view?usp=sharing)** at **[YoursthatSenior](https://yoursthatsenior.com/)**
-- Author of Research paper titled **Blockchain Based E-Voting**
-- **[Web Development Intern](https://drive.google.com/file/d/18w4I2R5CFjAmW4EO94xtmVbYOVQ7GgRD/view?usp=sharing)** at **[Code Clause](https://internship.codeclause.com/)**. See the [project](https://github.com/Mahitej28/CodeClause_Unit-Converter_Mahima)
-- **[Web Development and Design Intern](https://drive.google.com/file/d/1JK55wUEDg7X08A1VkvdWUMS1z2YJ0PNp/view?usp=sharing)** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/Mahitej28/Eco_Bank)
+- Chief Operational Officer (COO) at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
+- TE Inhouse Lead at **[CSI TCET](https://tcetcsi.github.io/tcetcsi/index.html)**
+- Creative Lead at **[Shastra-TCET](https://www.linkedin.com/company/tcet-shastra-coding-club/mycompany/)**
 
 ## ©️ Important Links
 - Portfolio: [portfolio/mahimachuri](https://mahimachuri.netlify.app/)
@@ -68,7 +66,7 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
 </details>
 
 <details>
-<summary><b>Python</b></summary>
+<summary><b>Machine Learning</b></summary>
   <br/>
 
 Task Name | Tech Stack | Source Code | 
@@ -80,7 +78,7 @@ Random Quote Generator | Python | [Repo](https://github.com/Mahitej28/Random-Quo
 </details>
 
 <details>
-<summary><b>Python Bots</b></summary>
+<summary><b>Tooling and Automation</b></summary>
   <br/>
 
 Task Name | Tech Stack | Source Code | 
