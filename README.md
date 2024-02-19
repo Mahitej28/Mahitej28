@@ -31,10 +31,10 @@ Highly responsible and organized with excellent writing, communication, and crit
 | Domain             |Tech      Stack                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Web Development | HTML, CSS, React.JS, NodeJs, ExpressJs |
-| Databases | MYSQL, MongoDB |
+| Databases | MYSQL, MongoDB, Postgress SQL |
 | Blockchain | Ethereum|
 | Languages | Python, C, C++, Java, JavaScript|
-| Tools| Git, Figma, Postman, Canva, Unity |
+| Tools| Git, Figma, Postman, Canva, Unity, Amazon(AWS) |
 
 ## 🔭 Projects
 <!-- Web Development -->
@@ -95,6 +95,16 @@ LinkedIn Bot | Python, Selenium | [Repo](https://github.com/Mahitej28/LinkedIn_B
 Task Name | Tech Stack | Source Code | 
 ------- | --------- | :--------: | 
 [NFT Forge](https://himanshu-03.github.io/NFT-Forge-Website/) | Javascript | [Repo](https://github.com/himanshu-03/NFT-Forge-Website)
+
+</details>
+
+<details>
+<summary><b>Data Science</b></summary>
+  <br/>
+
+Task Name | Tech Stack | Source Code | 
+------- | --------- | :--------: | 
+Exploratory Data Analysis on AMEO Dataset | Python | [Repo](https://github.com/himanshu-03/NFT-Forge-Website)
 
 </details>
 <details>
