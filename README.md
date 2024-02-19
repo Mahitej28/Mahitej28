@@ -105,6 +105,7 @@ Task Name | Tech Stack | Source Code |
 Task Name | Tech Stack | Source Code | 
 ------- | --------- | :--------: | 
 Exploratory Data Analysis on AMEO Dataset | Python | [Repo](https://github.com/Mahitej28/Analysis-of-AMEO-Dataset)
+Data Analysis on LinkedIn Profile Dataset | Python | Private Repo (For Now)
 
 </details>
 <details>
