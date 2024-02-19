@@ -3,8 +3,12 @@
 </em></i></p>
 </h3>
 
-## 🚀 About Me
-I'm a full-stack developer who is passionate about making dynamic, user-friendly websites and who enjoys learning a lot about front-end, back-end, and UI/UX design. I'm also a Mern Stack Enthusiast..!
+## 🚀 About 
+
+-  **Learning & making my way through :** Full-Stack Development | Open-Source | MERN | NextJs | Javascript | OpenAI | Web Development | UI/UX Designer  :zap:
+-   **Looking to start in coming days :** Java and Typescript 💻
+-  **Hobbies :** Writing & listening to music :headphones:
+-  **Fact :** I love sleeping, hidden singer :heart:
 
 I've always been a dedicated student currently finalizing B.E. in computer engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. 
 
