@@ -104,7 +104,7 @@ Task Name | Tech Stack | Source Code |
 
 Task Name | Tech Stack | Source Code | 
 ------- | --------- | :--------: | 
-Exploratory Data Analysis on AMEO Dataset | Python | [Repo](https://github.com/himanshu-03/NFT-Forge-Website)
+Exploratory Data Analysis on AMEO Dataset | Python | [Repo](https://github.com/Mahitej28/Analysis-of-AMEO-Dataset)
 
 </details>
 <details>
