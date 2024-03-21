@@ -113,8 +113,14 @@ Data Analysis on LinkedIn Profile Dataset | Python | Private Repo (For Now)
 Food Store Delivery Analysis | Python | Private Repo (For Now)
 
 </details>
+
+
+
+<!-- GitHub Statistics -->
+
 <details>
 <summary> <h3>📊 Github Statistics</h3> </summary>
+  
 <div align="center">
   
 [![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahitej28&theme=radical)](https://github.com/Mahitej28/github-readme-stats)
