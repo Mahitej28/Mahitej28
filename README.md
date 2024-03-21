@@ -38,7 +38,7 @@ Highly responsible and organized with excellent writing, communication, and crit
 | Databases | MYSQL, MongoDB, Postgress SQL |
 | Blockchain | Ethereum|
 | Languages | Python, C, C++, Java, JavaScript|
-| Tools| Git, Figma, Postman, Canva, Unity, Amazon(AWS) |
+| Tools| Git, Figma, Postman, Canva, Unity, Amazon(AWS), Google Cloud, Selenium, Vercel |
 
 ## 🔭 Projects
 <!-- Web Development -->
@@ -151,5 +151,5 @@ Food Store Delivery Analysis | Python | Private Repo (For Now)
 <p><a href="https://www.buymeacoffee.com/mahimachuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="190" alt="MahimaChuri" /></a></p><br><br>
 <br>
 
-Last Updated: Thursday, March 21st, 2024, 08:04 PM (GMT)
+Last Updated: Thursday, March 21st, 2024, 08:09 PM (GMT)
 
