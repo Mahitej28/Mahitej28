@@ -59,6 +59,7 @@ Scientific Calculator | JavaScript, HTML, CSS | [Repo](https://github.com/Mahite
 Customised Stopwatch and Timer | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/CodeClause_Stopwatch-Timer_Mahima)
 Tic Tac Toe Game | JavaScript, HTML, CSS | [Repo](https://github.com/Mahitej28/Tic-Tac-Toe-Game)
 </details>
+
 <!-- UI/UX Development -->
 <details>
 <summary><b>UI/UX Development</b></summary>
@@ -70,6 +71,7 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
 
 </details>
 
+<!-- Machine Learning -->
 <details>
 <summary><b>Machine Learning</b></summary>
   <br/>
@@ -82,6 +84,7 @@ Random Quote Generator | Python | [Repo](https://github.com/Mahitej28/Random-Quo
 
 </details>
 
+<!-- Tooling and Automation -->
 <details>
 <summary><b>Tooling and Automation</b></summary>
   <br/>
@@ -102,6 +105,7 @@ Task Name | Tech Stack | Source Code |
 
 </details>
 
+<!-- Data Science -->
 <details>
 <summary><b>Data Science</b></summary>
   <br/>
@@ -118,8 +122,8 @@ Food Store Delivery Analysis | Python | Private Repo (For Now)
 
 <!-- GitHub Statistics -->
 
-<details>
-<summary> <h3>📊 Github Statistics</h3> </summary>
+<details align="center">
+<summary><b>📊 Github Statistics</b></summary>
   
 <div align="center">
   
@@ -147,5 +151,5 @@ Food Store Delivery Analysis | Python | Private Repo (For Now)
 <p><a href="https://www.buymeacoffee.com/mahimachuri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="190" alt="MahimaChuri" /></a></p><br><br>
 <br>
 
-Last Updated: Thursday, June 29th, 2023, 15:44 PM (GMT)
+Last Updated: Thursday, March 21st, 2024, 08:04 PM (GMT)
 
