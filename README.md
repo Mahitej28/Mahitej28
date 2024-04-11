@@ -19,6 +19,7 @@ Highly responsible and organized with excellent writing, communication, and crit
 
 
 ## 👩‍💻 Experience
+- **[Data Science Intern](https://drive.google.com/file/d/1OAC2zLkGK8DLC9hLybbflRB5Wr7Q6BSV/view?usp=drive_link)** at **[Innomatics Research Labs](https://www.innomatics.in/)**
 - **[Web Development Intern](https://drive.google.com/file/d/1DLYp-Y-f6SgbHqUe_7O1RXRJA5S0-PST/view?usp=sharing)** at **[YoursthatSenior](https://yoursthatsenior.com/)**
 - Chief Operational Officer (COO) at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
 - TE Inhouse Lead at **[CSI TCET](https://tcetcsi.github.io/tcetcsi/index.html)**
