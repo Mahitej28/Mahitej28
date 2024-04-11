@@ -29,7 +29,7 @@ Highly responsible and organized with excellent writing, communication, and crit
 - Portfolio: [portfolio/mahimachuri](https://mahimachuri.netlify.app/)
 - Projects: [github.com/Mahitej28](https://github.com/Mahitej28)
 - Linkedin: [linkedin.com/mahimachuri](https://www.linkedin.com/in/mahimachuri/)
-- Resume: [resume/mahimachuri](https://drive.google.com/file/d/17VtNHvJvthIrgilUy_Sf_O3NOHfHnjWQ/view?usp=sharing)
+- Resume: [resume/mahimachuri](https://drive.google.com/file/d/1zor9oE6FgmRP64lDbVXo84W4XpgNoTVT/view?usp=sharing)
 - Medium: [blog/mahimachuri](https://medium.com/@mahimachuri.28)
 
 ## 🛠 Skills
