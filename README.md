@@ -79,6 +79,7 @@ Bibliophie | Figma | [Repo](https://github.com/Mahitej28/UI-UX-Design)
 
 Task Name | Tech Stack | Source Code | 
 ------- | --------- | :--------: | 
+Textract101 | Python | [Repo](https://github.com/Mahitej28/Textract101)
 LinkedIn Profile Scraper | Python | [Repo](https://github.com/Mahitej28/LinkedIn-Profile-Scraper)
 Basic Web Scraper | Python | [Repo](https://github.com/Mahitej28/Basic-WebScraper)
 Random Quote Generator | Python | [Repo](https://github.com/Mahitej28/Random-Quote-Generator)
