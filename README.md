@@ -11,7 +11,7 @@
 -  **Fact :** I love sleeping, hidden singer :heart:
 
 I've always been a dedicated student currently finalizing B.E. in computer engineering and prepared to contribute to organizational success while developing new skills and gaining real-world experience. Highly responsible and organized with excellent writing, communication, and critical thinking abilities. 
-<br/>My personal favourite project: [Repo](https://github.com/Mahitej28/LinkedIn_Bot), do have a look! and don't forget to star it!!🌟
+<br/>My personal favourite project: [Repo](https://github.com/Mahitej28/LinkedIn_Bot), do have a look! and don't forget to starred it!!🌟
 
 - [Open Source Contributor](https://www.linkedin.com/feed/update/urn:li:activity:7063883861092384768/) at **[GSSoC'23](https://gssoc.girlscript.tech/)**
 - Author of Research paper titled **[Blockchain Based E-Voting](https://link.springer.com/chapter/10.1007/978-981-99-0071-8_11)**
